@@ -1,0 +1,6 @@
+{
+  "server": "bartosz8291.github.io/ChatGPT/index.html";
+  "port": 8080,
+  "username": "admin",
+  "password": "password123"
+}
